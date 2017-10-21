@@ -16,7 +16,7 @@ import Hi from './Components/Login.js';
 export default class App extends Component {
   render() {
     return (
-        <Hi />
+        <Text> Hello World </Text>
     );
   }
 }
