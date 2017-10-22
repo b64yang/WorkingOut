@@ -17,6 +17,7 @@ export default class App extends Component {
   render() {
     return (
         <Text> Hello World </Text>
+        <Text> This is a test </Text>
     );
   }
 }
